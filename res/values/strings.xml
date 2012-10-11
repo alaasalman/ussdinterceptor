@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">USSDInterceptor</string>
+    <string name="uri_scheme">ussd</string>
+    <string name="uri_authority">cd</string>
+    <string name="uri_path">/</string>
+    <string name="uri_param_name">uval</string>
+
+</resources>
