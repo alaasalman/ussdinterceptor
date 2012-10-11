@@ -53,7 +53,7 @@ public class CDUSSDService extends Service{
 
 			public CharSequence getUserMessage(CharSequence text)
 					throws RemoteException {
-				Log.d(TAG, "get user messagedss " + text);
+				Log.d(TAG, "get user message " + text);
 				
 				if(mActive == false){
 					//listener is still inactive, so return whatever we got
